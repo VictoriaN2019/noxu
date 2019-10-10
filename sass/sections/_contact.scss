@@ -1,0 +1,47 @@
+.contact {
+    background-color: #363636;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    margin-top: 15px;
+}
+.contact {
+    .get {
+        font-size: 110px;
+        font-weight: bold;
+    }
+    .title3 {
+        font-size: 90px;
+    }
+    .info {
+        font-size: 60px;
+    }
+    .survey {
+        background-color: #363636;
+        color: white;
+        font-size: 70px;
+        border: 7px solid white;
+        border-radius: 6%;
+        padding: 55px;
+        text-align: center;
+        margin-top: 120px;
+        display: block;
+        margin-left: 500px;
+    }
+    .privacy {
+        color: blue;
+        font-size: 60px;
+        text-align: center;
+    }
+    .map {
+        width: 85%;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .thank {
+        font-size: 70px;
+        text-align: center;
+        padding: 50px;
+        margin: 175px
+    }
+}

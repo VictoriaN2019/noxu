@@ -1,0 +1,257 @@
+.noxu {
+  color: white;
+  font-family: 'Lato', sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  display: inline-block;
+}
+.nav {
+  display: none;
+}
+.btn {
+  background-color: black;
+  color: lightslategray;
+  border: 0.5px solid lightslategray;
+  font-size: 90px;
+  padding: 15px;
+  border-radius: 7%;
+  margin-left: 1115px;
+}
+
+.lista {
+  display: none;
+}
+.search {
+  display: none;
+}
+.limited {
+  font-family: "Lato", sans-serif;
+  height: 104vh;
+  width: 153vw;
+  color: white;
+  background-image: url("https://raw.githubusercontent.com/erickkg/SiteImages/master/ClothsWebpage/standingBushes.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.title1 {
+  font-size: 127px;
+  text-align: center;
+  height: 50px;
+  padding: 15px;
+  margin: 15px;
+  box-sizing: border-box;
+}
+
+.title2 {
+  font-size: 80px;
+  font-weight: lighter;
+  text-align: center;
+  height: 40px;
+  padding: 91px;
+  margin: 15px;
+  box-sizing: border-box;
+  font-style: italic;
+}
+
+.checkout {
+  display: none;
+}
+
+.built {
+  display: none;
+}
+
+.fp {
+  font-size: 120px;
+  font-weight: bolder;
+  color: white;
+  font-family: "Lato", sans-serif;
+  margin-top: 95px;
+  margin-left: 480px;
+  margin-bottom: 95px;
+}
+
+.foto {
+  max-width: 100%;
+  display: flex;
+  border-radius: 3%;
+  width: 850px;
+  height: 900px;
+}
+
+.white {
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+.denim {
+  width: 850px;
+  height: 300px;
+  overflow: hidden;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  max-width: 850px;
+  margin: auto;
+  text-align: center;
+  transition: 0.3s;
+  border-radius: 3%;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+
+.cardcon {
+  display: inline-block;
+  height: 100px;
+  width: 100%;
+  background-color: white;
+  color: lightslategray;
+  font-family: "Lato", sans-serif;
+  font-size: 45px;
+  border-radius: 5px;
+}
+
+.button2 {
+  font-family: "Lato", sans-serif;
+  font-size: 115px;
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+  border-radius: 25px;
+  padding: 53px;
+  margin-top: 105px;
+  margin-left: 449px;
+}
+
+.contact {
+  background-color: #363636;
+  color: white;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.contact .get {
+  font-size: 110px;
+  font-weight: bold;
+}
+.contact .title3 {
+  font-size: 90px;
+}
+.contact .info {
+  font-size: 60px;
+}
+.contact .survey {
+  background-color: #363636;
+  color: white;
+  font-size: 70px;
+  border: 7px solid white;
+  border-radius: 6%;
+  padding: 55px;
+  text-align: center;
+  margin-top: 120px;
+  display: block;
+  margin-left: 500px;
+}
+.contact .privacy {
+  color: blue;
+  font-size: 60px;
+  text-align: center;
+}
+.contact .map {
+  width: 85%;
+  text-align: center;
+  margin-top: 20px;
+}
+.contact .thank {
+  font-size: 70px;
+  text-align: center;
+  padding: 50px;
+  margin: 175px;
+}
+
+.browsei {
+  font-size: 120px;
+  font-weight: bolder;
+  color: white;
+  font-family: "Lato", sans-serif;
+  margin-top: 95px;
+  text-align: center;
+  margin-bottom: 95px;
+  text-align: center;
+  position: relative;
+}
+
+.position {
+  position: relative;
+}
+.title4 {
+  font-family: "Lato", sans-serif;
+  font-size: 100px;
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+  position: absolute;
+  left: 44%;
+  top: 20px;
+}
+.shoes {
+  width: 1088px;
+  height: 922px;
+  margin-left: 186px;
+  display: flex;
+  padding: 40px;
+}
+
+.jeans {
+  width: 1088px;
+  height: 922px;
+  margin-left: 186px;
+  display: flex;
+  padding: 40px;
+}
+
+.shirts {
+  width: 1088px;
+  height: 922px;
+  margin-left: 186px;
+  display: flex;
+  padding: 40px;
+}
+
+.outfits {
+  width: 1088px;
+  height: 1946px;
+  margin-left: 186px;
+  display: flex;
+  padding: 40px;
+}
+
+.body {
+  width: 151%;
+  background-color: black;
+}
+.privacy {
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+/*@media (min-width: 768px) {
+ .search {
+   display: inline-block;
+ }
+ .lista {
+   display: inline-block;
+   color: white;
+ }
+ .checkout {
+   display: inline-block;
+ }
+}*/
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,34 @@
+.limited {
+    font-family: "Lato", sans-serif;
+    height: 104vh;
+    width: 153vw;
+    color: white;
+    background-image: url("https://raw.githubusercontent.com/erickkg/SiteImages/master/ClothsWebpage/standingBushes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.title1 {
+    font-size: 127px;
+    text-align: center;
+    height: 50px;
+    padding: 15px;
+    margin: 15px;
+    box-sizing: border-box;
+}
+.title2 {
+    font-size: 80px;
+   font-weight: lighter;
+    text-align: center;
+    height: 40px;
+    padding: 91px;
+    margin: 15px;
+    box-sizing: border-box;
+}
+.checkout {
+    display: none;
+}
+  
+.built {
+    display: none;
+}
